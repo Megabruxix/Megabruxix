@@ -9,7 +9,6 @@ Since young, i've been tinkering with coding and since then, when I started coll
 - Databases & APIs 🌐  
 
 🚀 **Interests & Goals**  
-I love turning ideas into working code and exploring how things run behind the scenes. My main goals are:  
 - Mastering Backend Development 🖥️  
 - Building real-world projects 🔨  
 
