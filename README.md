@@ -30,3 +30,5 @@ Besides coding, I practice **Karate** 🥋 and I’m currently a **brown belt**,
   <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megabruxix&layout=compact&hide_border=true&title_color=b81414&text_color=b81414&bg_color=111111" />
   <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=Megabruxix&show_icons=true&count_private=true&hide_border=true&title_color=b81414&icon_color=b81414&text_color=b81414&bg_color=111111&include_all_commits=true" />
 </p>
+
+<img src="https://raw.githubusercontent.com/Megabruxix/Megabruxix/output/snake.svg" alt="Snake animation" />
