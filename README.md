@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Almir Guilherme!  
+# 🤟 Hey there, I’m Almir Guilherme!  
 
 🎯 **About Me**  
 Since young, i've been tinkering with coding and since then, when I started college I decided that this is what I want to do for life. I aiming to learn everything I possibly can about Backend and Databases. Wish me luck on my journey!
